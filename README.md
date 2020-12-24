@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 ### Security
 - KHDP, IGRUS co-founder
 - HackersLab researcher
-- Webzen, Securesoft, LINE, ... Now working for GREE 
+- Webzen, Securesoft, LINE, Now working for GREE 
+
+### Favorites 
+- C/C++, Python, Java, Delphi, QML, ... 
+- Windows, Linux, MacOS, ... 
+- IDA Pro, Burp, gdb, frida, ollydbg ...
+- Etc 
+
 
 ### Speaker 
 - 2016 SECUINSIDE(🇰🇷)
@@ -35,9 +42,3 @@ https://ja.avtokyo.org/avtokyo2012/speakers
 
 - 2003 CONCERT(🇰🇷) 
 - 2002 CONCERT(🇰🇷) 
-
-### Favorites 
-- C/C++, Python, Java, Delphi, QML, ... 
-- Windows, Linux, MacOS, ... 
-- IDA Pro, Burp, gdb, frida, ollydbg ...
-- Etc 
