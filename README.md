@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - 2016 SECUINSIDE(🇰🇷)
 http://secuinside.com/2017/archive.html
 
+- 2015 GREE Mini Tech Talk(🇯🇵)
+https://labs.gree.jp/blog/2015/01/13430/
+
 - 2013 HICON(🇹🇼)
 https://hitcon.org/2013/agenda/
 
