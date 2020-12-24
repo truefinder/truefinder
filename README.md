@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 - Webzen, Securesoft, LINE, ... Now working for GREE 
 
 ### Speaker 
-- 2016 SECUINSIDE(Korea)
+- 2016 SECUINSIDE(🇰🇷)
 http://secuinside.com/2017/archive.html
 
-- 2013 HICON(Taiwan)
+- 2013 HICON(🇹🇼)
 https://hitcon.org/2013/agenda/
 
-- 2012 AVTOKYO(Japan)
+- 2012 AVTOKYO(🇯🇵)
 https://ja.avtokyo.org/avtokyo2012/speakers
 
-- 2003 CONCERT(Korea) 
-- 2002 CONCERT(Korea) 
+- 2003 CONCERT(🇰🇷) 
+- 2002 CONCERT(🇰🇷) 
 
 ### Favorites 
 - C/C++, Python, Java, Delphi, QML, ... 
