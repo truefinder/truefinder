@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 - IDA Pro, Burp, gdb, frida, ollydbg ...
 - Etc 
 
+### Security 
+- SKT, KT, Thrunet, Hanaro telecome
+- MuOnline, SunOnline, Chokotoland, Pachinko Dx, SpecialForce, DragonNest, Tera, ... 
+- LINE, LINE Bubble, LINE Pokopang, ... 
 
 ### Speaker 
 - 2016 SECUINSIDE(🇰🇷)
