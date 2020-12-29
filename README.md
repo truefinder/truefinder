@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Security
 - KHDP, IGRUS co-founder
 - HackersLab researcher
-- Webzen, Securesoft, LINE, Now working for GREE 
+- Worked for Webzen, Securesoft, LINE, GREE 
 
 ### Favorites 
 - C/C++, Python, Java, Delphi, QML, ... 
