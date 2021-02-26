@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - Etc 
 
 ### CTF 
-2002 Staff, KOF King of Fighter, HackersLab, Inc 
-2001 Winner, World Information Security Olymfair, KAIST 
+- 2002 Staff, KOF King of Fighter, HackersLab, Inc 
+- 2001 Winner, World Information Security Olymfair, KAIST 
 
 ### Speaker 
 - 2016 SECUINSIDE(🇰🇷)
