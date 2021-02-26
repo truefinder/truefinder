@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Security
-- Now Working for GREE Inc 
+- Now Working for GREE Inc since 2012
 - Worked as a security researcher for Webzen, Securesoft, LINE
 - HackersLab researcher
 - 2000 IGRUS, Inha Group of Research for UNIX Secruity founder 
