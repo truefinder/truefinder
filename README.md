@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ### Security
 - KHDP, IGRUS co-founder
 - HackersLab researcher
-- Worked for Webzen, Securesoft, LINE, GREE 
+- Worked for Webzen, Securesoft, LINE
+- Now Working for GREE Inc 
 
 ### Favorites 
 - C/C++, Python, Java, Delphi, QML, ... 
@@ -27,7 +28,8 @@ Here are some ideas to get you started:
 - Etc 
 
 ### CTF 
-- 2002 Staff, KOF King of Fighter, HackersLab, Inc 
+- 2002 Staff, KOF King of Fighters, HackersLab, Inc 
+- 2001 Staff, KOF King of Fighters, HackersLab, Inc 
 - 2001 Winner, World Information Security Olymfair, KAIST 
 
 ### Speaker 
