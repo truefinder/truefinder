@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - IDA Pro, Burp, gdb, frida, ollydbg ...
 - Etc 
 
+### CTF 
+2001 Team Syrinx Winner, World Information Security Olymfair
 
 ### Speaker 
 - 2016 SECUINSIDE(🇰🇷)
