@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### Security
-- KHDP, IGRUS co-founder
-- HackersLab researcher
-- Worked for Webzen, Securesoft, LINE
 - Now Working for GREE Inc 
+- Worked as a security researcher for Webzen, Securesoft, LINE
+- HackersLab researcher
+- 2000 IGRUS, Inha Group of Research for UNIX Secruity founder 
+- 1999 KHDP, Koean Hacking Document Project co-founder with Wongyeo Jeong, Jiman Ham
 
 ### Favorites 
 - C/C++, Python, Java, Delphi, QML, ... 
