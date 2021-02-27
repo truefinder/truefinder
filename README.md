@@ -46,8 +46,8 @@ Here are some ideas to get you started:
   * "Smartphone Online game vulnerabilities" https://ja.avtokyo.org/avtokyo2012/speakers
 
 - 2002 CONCERT(🇰🇷) 
-  * Format String Attack for fun and profit 
+  * "Format String Attack for fun and profit" 
   
 - 2000 CONCERT(🇰🇷) 
-  * Network vulnerabilities 
+  * "UNIX Network vulnerabilities" 
 
