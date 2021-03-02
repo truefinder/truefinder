@@ -35,19 +35,14 @@ Here are some ideas to get you started:
 ### Speaker 
 - 2016 SECUINSIDE(🇰🇷)
   * "About oauth zero-day vulneribilities on Koeran SNS giants"  http://secuinside.com/2017/archive.html
-
 - 2015 GREE Mini Tech Talk(🇯🇵)
   * "Android game application vulnerailiies in wild" https://labs.gree.jp/blog/2015/01/13430/
-
-- 2013 HICON(🇹🇼)
+- 2013 HITCON(🇹🇼)
   * "Spears and shields on online game" https://hitcon.org/2013/agenda/
-
 - 2012 AVTOKYO(🇯🇵)
   * "Smartphone Online game vulnerabilities" https://ja.avtokyo.org/avtokyo2012/speakers
-
 - 2002 CONCERT(🇰🇷) 
   * "Format String Attack for fun and profit" 
-  
 - 2000 CONCERT(🇰🇷) 
   * "UNIX Network vulnerabilities" 
 
