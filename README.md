@@ -16,20 +16,21 @@ Here are some ideas to get you started:
 -->
 
 ### Security
-- Now Working for GREE Inc since 2012
-- Worked as a security researcher for Webzen, Securesoft, LINE
-- HackersLab researcher
+- GREE(Japan) since 2012 Now 
+- LINE (Japan) security researcher
+- Webzen (Korea) Windows developer 
+- HackersLab (Korea, The first security consulting firm in Korea) security researcher
 - 2000 IGRUS, Inha Group of Research for UNIX Secruity founder 
 - 1999 KHDP, Koean Hacking Document Project co-founder with Wongyeo Jeong, Jiman Ham
 
 ### Favorites 
-- x86 ASM, C/C++, Python, PHP, Java, Delphi, QML, ... 
-- IDA Pro, gdb, frida, ollydbg, WindDbg, OpenZap, Burp,  ...
+- x86/64 ASM, C/C++, VS, Python, PHP, Java, Delphi, QML, ... 
+- IDA Pro, IDA plugins, gdb, frida, ollydbg, WindDbg, OpenZap, Burp, Burp extensions ...
 - Etc 
 
 ### CTF 
-- 2002 Staff, KOF King of Fighters, HackersLab, Inc 
-- 2001 Staff, KOF King of Fighters, HackersLab, Inc 
+- 2002 Staff, King of Fighters, HackersLab, Inc 
+- 2001 Supporter, King of Fighters, HackersLab, Inc 
 - 2001 Winner, World Information Security Olymfair, KAIST 
 
 ### Speaker 
