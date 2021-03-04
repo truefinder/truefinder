@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 2012 AVTOKYO(🇯🇵)
   * "Smartphone Online game vulnerabilities" https://ja.avtokyo.org/avtokyo2012/speakers
 - 2002 CONCERT(🇰🇷) 
-  * "Format String Attack for fun and profit" 
+  * "Format String Attack" 
 - 2000 CONCERT(🇰🇷) 
   * "UNIX Network vulnerabilities" 
 
