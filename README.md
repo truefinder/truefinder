@@ -29,10 +29,16 @@ Here are some ideas to get you started:
 - IDA Pro, IDA plugins, gdb, frida, ollydbg, WindDbg, OpenZap, Burp, Burp extensions ...
 - Etc 
 
-### CTF 
+### CTFs 
 - 2002 Staff, King of Fighters, HackersLab, Inc 
 - 2001 Supporter, King of Fighters, HackersLab, Inc 
 - 2001 Winner, World Information Security Olymfair, KAIST 
+
+### CVEs
+- CVE-2001-1093
+- CVE-2001-1092
+- CVE-2000-0998
+- CVE-1999-0691
 
 ### Speaker 
 - 2016 SECUINSIDE(🇰🇷)
