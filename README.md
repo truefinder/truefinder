@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Security
-- GREE 🇯🇵 since 2012 Now 
+### Trails
+- GREE 🇯🇵 since 2012, Now 
 - LINE 🇯🇵 security researcher
 - PanicSecurity 🇰🇷 (2003) co-founder (PS ScanW3B)
 - Webzen 🇰🇷 Windows developer 
@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 - KHDP, Koean Hacking Document Project co-founder (1999) with Wongyeo Jeong, Jiman Ham
 
 ### Favorites 
-- x86/64 ASM, C/C++, VS, Python, PHP, Java, Ruby, Delphi, QML, Yacc&Lex... 
+- x86/64 asm, C/C++, C#, Python, PHP, Java, Ruby, Delphi, QML, Yacc&Lex... 
 - IDA Pro, IDA plugins, gdb, frida, ollydbg, WindDbg, ZAP, Burp, Burp extensions ...
-- Etc 
+- golang, Laravel, Fuelphp, Codeigniter, CakePHP, Django, Node.js, Symfony, Silex, Typescript, ... 
+- Android, iOS, Windows, Linux, Mac OSX, Raspberry Pi, Arduino ... 
+- (old friends) Solaris, Digital Unix, AIX, Minix, WinCE, i-Mode, KVM, ...
 
 ### CTFs 
 - 2002 Staff, King of Fighters, HackersLab, Inc 
