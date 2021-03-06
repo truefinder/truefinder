@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Security
 - GREE 🇯🇵 since 2012 Now 
 - LINE 🇯🇵 security researcher
-- Webzen 🇰🇷 Windows developer 
 - PanicSecurity 🇰🇷 (2003) co-founder (PS ScanW3B)
+- Webzen 🇰🇷 Windows developer 
 - HackersLab 🇰🇷 (The first security consulting firm in Korea) security researcher
 - IGRUS, Inha Group of Research for UNIX Secruity (2000) founder 
 - KHDP, Koean Hacking Document Project co-founder (1999) with Wongyeo Jeong, Jiman Ham
