@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### Security
-- GREE(Japan) since 2012 Now 
-- LINE (Japan) security researcher
-- Webzen (Korea) Windows developer 
-- PanicSecurity (Korea) (2003) co-founder (PS ScanW3B)
-- HackersLab (Korea, The first security consulting firm in Korea) security researcher
+- GREE 🇯🇵 since 2012 Now 
+- LINE 🇯🇵 security researcher
+- Webzen 🇰🇷 Windows developer 
+- PanicSecurity 🇰🇷 (2003) co-founder (PS ScanW3B)
+- HackersLab 🇰🇷 (The first security consulting firm in Korea) security researcher
 - IGRUS, Inha Group of Research for UNIX Secruity (2000) founder 
 - KHDP, Koean Hacking Document Project co-founder (1999) with Wongyeo Jeong, Jiman Ham
 
