@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - KHDP, Koean Hacking Document Project co-founder (1999) with Wongyeo Jeong, Jiman Ham
 
 ### Favorites 
-- x86/64 ASM, C/C++, VS, Python, PHP, Java, Delphi, QML, ... 
-- IDA Pro, IDA plugins, gdb, frida, ollydbg, WindDbg, OpenZap, Burp, Burp extensions ...
+- x86/64 ASM, C/C++, VS, Python, PHP, Java, Ruby, Delphi, QML, Yacc&Lex... 
+- IDA Pro, IDA plugins, gdb, frida, ollydbg, WindDbg, ZAP, Burp, Burp extensions ...
 - Etc 
 
 ### CTFs 
@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 - 2013 HITCON(🇹🇼)
   * "Spears and shields on online game" https://hitcon.org/2013/agenda/
 - 2012 AVTOKYO(🇯🇵)
-  * "Smartphone Online game vulnerabilities" https://ja.avtokyo.org/avtokyo2012/speakers
+  * "Smartphone online game vulnerabilities" https://ja.avtokyo.org/avtokyo2012/speakers
 - 2002 CONCERT(🇰🇷) 
   * "Format String Attack" 
 - 2000 CONCERT(🇰🇷) 
-  * "UNIX Network vulnerabilities" 
+  * "UNIX network vulnerabilities" 
 
