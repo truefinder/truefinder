@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### Trails
 - GREE 🇯🇵 since 2012, Now 
-- LINE 🇯🇵 security researcher
-- PanicSecurity 🇰🇷 (2003) co-founder (PS ScanW3B)
-- Webzen 🇰🇷 Windows developer 
-- HackersLab 🇰🇷 (The first security consulting firm in Korea) security researcher
+- LINE 🇯🇵 security researcher 2008
+- PanicSecurity 🇰🇷  co-founder (PS ScanW3B) 2004
+- Webzen 🇰🇷 Windows developer 2003
+- HackersLab 🇰🇷 (The first security consulting firm in Korea) security researcher 2001
 - IGRUS, Inha Group of Research for UNIX Secruity (2000) founder 
 - KHDP, Koean Hacking Document Project co-founder (1999) with Wongyeo Jeong, Jiman Ham
 
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 - (old friends) Solaris, Digital Unix, AIX, Minix, WinCE, i-Mode, KVM, ...
 
 ### CTFs 
-- 2002 Staff, King of Fighters, HackersLab, Inc 
-- 2001 Supporter, King of Fighters, HackersLab, Inc 
-- 2001 Winner, World Information Security Olymfair, KAIST 
+- 2002 Staff, KOF(King of Fighters) ctf, HackersLab, Inc 
+- 2001 Supporter, KOF(King of Fighters) ctf, HackersLab, Inc 
+- 2001 Winner, World Information Security Olymfair, KAIST & KISA , Korea  
 
 ### CVEs
 - CVE-2001-1093
