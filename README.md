@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 - (old friends) Solaris, Digital Unix, AIX, Minix, WinCE, i-Mode, KVM, ...
 
 ### CTFs 
-- 2002 Staff, KOF(King of Fighters) ctf, HackersLab, Inc 
-- 2001 Supporter, KOF(King of Fighters) ctf, HackersLab, Inc 
-- 2001 Winner, World Information Security Olymfair, KAIST & KISA , Korea  
+- 2002 Staff, KOF(King of Fighters) 2001 ctf, HackersLab, Taiwan
+- 2001 Staff, 2st KOF(King of Fighters) ctf, HackersLab, Korea 
+- 2001 Winner, World Information Security Olymfair, KAIST, Korea  
 
 ### CVEs
 - CVE-2001-1093
