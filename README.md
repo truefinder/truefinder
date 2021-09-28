@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### Trails
-- GREE 🇯🇵 since 2012, Now 
-- LINE 🇯🇵 security researcher 2008
-- PanicSecurity 🇰🇷  co-founder (PS ScanW3B) 2004
-- Webzen 🇰🇷 Windows developer 2003
-- HackersLab 🇰🇷 (The first security consulting firm in Korea) security researcher 2001
-- IGRUS, Inha Group of Research for UNIX Secruity (2000) founder 
-- KHDP, Koean Hacking Document Project co-founder (1999) with Wongyeo Jeong, Jiman Ham
+- Security Engineer, GREE 🇯🇵 since 2012, Now 
+- Security Manager, LINE 🇯🇵 2008
+- Co-founder, PanicSecurity 🇰🇷 (PS ScanW3B) 2004
+- Security Engineer, Webzen 🇰🇷  2003
+- Security Consultant, HackersLab 🇰🇷 (The first security consulting firm in Korea) 2001
+- Founder, IGRUS, Inha Group of Research for UNIX Secruity (2000)
+- Co-founder, KHDP, Koean Hacking Document Project (1999) with Wongyeo Jeong, Jiman Ham
 
 ### Favorites 
 - x86/64 asm, C/C++, C#, Python, PHP, Java, Ruby, Delphi, QML, Yacc&Lex... 
