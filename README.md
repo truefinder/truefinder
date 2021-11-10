@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### Trails
-- Security Engineer, GREE 🇯🇵 since 2012, Now 
-- Security Manager, LINE 🇯🇵 2008
+- Senior Engineer, GREE 🇯🇵 2012, Now ~  
+- Security Manager, LINE 🇯🇵 2008, 4 and half years
 - Co-founder, PanicSecurity 🇰🇷 (PS ScanW3B) 2004
-- Security Engineer, Webzen 🇰🇷  2003
-- Security Consultant, HackersLab 🇰🇷 (The first security consulting firm in Korea) 2001
+- Security Engineer, Webzen 🇰🇷  2003, 2years
+- Security Consultant, HackersLab 🇰🇷 (The first security consulting firm in Korea) 2001, 2years
 - Founder, IGRUS, Inha Group of Research for UNIX Secruity (2000)
 - Co-founder, KHDP, Koean Hacking Document Project (1999) with Wongyeo Jeong, Jiman Ham
 
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 - (old friends) Solaris, Digital Unix, AIX, Minix, WinCE, i-Mode, KVM, ...
 
 ### CTFs 
-- 2002 Staff, KOF(King of Fighters) 2001 ctf, HackersLab, Taiwan
-- 2001 Staff, 2st KOF(King of Fighters) ctf, HackersLab, Korea 
+- 2002 Host, KOF(King of Fighters) 2001 ctf, HackersLab, Taiwan
+- 2001 Host, 2st KOF(King of Fighters) ctf, HackersLab, Korea 
 - 2001 Winner, World Information Security Olymfair, KAIST, Korea  
 
 ### Bug Huntings(CVE)
