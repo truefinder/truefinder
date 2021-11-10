@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 - 2001 Staff, 2st KOF(King of Fighters) ctf, HackersLab, Korea 
 - 2001 Winner, World Information Security Olymfair, KAIST, Korea  
 
-### CVEs
-- CVE-2001-1093
-- CVE-2001-1092
-- CVE-2000-0998
-- CVE-1999-0691
+### Bug Huntings(CVE)
+- CVE-2001-1093 "Buffer overflow in msgchk in Digital UNIX 4.0G and earlier"
+- CVE-2001-1092 "Msgchk in Digital UNIX 4.0G and earlier allows a local user to read the first line"
+- CVE-2000-0998 "Format string vulnerability in top program allows local attackers to gain root privileges"
+- CVE-1999-0691 "Digital Unix CDE dtaction -user overflow vulnerability proof of concept code"
 
 ### Game Security
 - SINoALICE -シノアリス-, 戦姫絶唱シンフォギアXD UNLIMITED, アサルトリリィ Last Bullet,  ...
@@ -64,4 +64,14 @@ Here are some ideas to get you started:
   * "Format String Attack" 
 - 2000 CONCERT(🇰🇷) 
   * "UNIX network vulnerabilities" 
+
+### Online publications
+- 2002 "Heap overflow - feee/malloc, double free corruption" 
+https://github.com/truefinder/truefinder/blob/main/documents/heap_overflow_free_malloc_double_free_corruption.txt
+- 2001 "Format string attack on alpha(64bits) system" 
+https://github.com/truefinder/truefinder/blob/main/documents/format_string_attack_on_alpha_system.txt
+- 2001 "Ptrace and controlling the child process" 
+https://github.com/truefinder/truefinder/blob/main/documents/ptrace_and_controlling_the_child_process.txt
+- 2001 "Format string attack - concept and general exploit" 
+https://github.com/truefinder/truefinder/blob/main/documents/format_string_attack_concept_and_general_exploit
 
