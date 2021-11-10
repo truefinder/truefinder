@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 - TERA, Specil Force, Dragon Nest, ELSEWORD, パチスロDX, パチンコDX, ななぱち, チョコットランド, アラド戦記, ...
 
 ### Speaker 
+- 2021 Gree TechConference(🇯🇵)
+  * "TONBI, vulnerabilitiy scanner for various MVC-model server frameworks" https://techcon.gree.jp/2021/
 - 2016 SECUINSIDE(🇰🇷)
   * "About oauth zero-day vulneribilities on Koeran SNS giants"  http://secuinside.com/2017/archive.html
 - 2015 GREE Mini Tech Talk(🇯🇵)
