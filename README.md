@@ -50,16 +50,16 @@ Here are some ideas to get you started:
 - TERA, Specil Force, Dragon Nest, ELSEWORD, パチスロDX, パチンコDX, ななぱち, チョコットランド, アラド戦記, ...
 
 ### Speaker 
-- 2021 Gree TechConference(🇯🇵)
-  * "TONBI, vulnerabilitiy scanner for various MVC-model server frameworks" https://techcon.gree.jp/2021/
-- 2016 SECUINSIDE(🇰🇷)
-  * "About oauth zero-day vulneribilities on Koeran SNS giants"  http://secuinside.com/2017/archive.html
-- 2015 GREE Mini Tech Talk(🇯🇵)
-  * "Android game application vulnerailiies in wild" https://labs.gree.jp/blog/2015/01/13430/
-- 2013 HITCON(🇹🇼)
-  * "Spears and shields on online game" https://hitcon.org/2013/agenda/
-- 2012 AVTOKYO(🇯🇵)
-  * "Smartphone online game vulnerabilities" https://ja.avtokyo.org/avtokyo2012/speakers
+- 2021 Gree TechConference(🇯🇵) https://techcon.gree.jp/2021/
+  * "TONBI, vulnerabilitiy scanner for various MVC-model server frameworks" 
+- 2016 SECUINSIDE(🇰🇷) http://secuinside.com/2017/archive.html
+  * "About oauth zero-day vulneribilities on Koeran SNS giants"  
+- 2015 GREE Mini Tech Talk(🇯🇵) https://labs.gree.jp/blog/2015/01/13430/
+  * "Android game application vulnerailiies in wild" 
+- 2013 HITCON(🇹🇼) https://hitcon.org/2013/agenda/
+  * "Spears and shields on online game" 
+- 2012 AVTOKYO(🇯🇵) https://ja.avtokyo.org/avtokyo2012/speakers
+  * "Smartphone online game vulnerabilities" 
 - 2002 CONCERT(🇰🇷) 
   * "Format String Attack" 
 - 2000 CONCERT(🇰🇷) 
