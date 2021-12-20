@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Trails
-- Senior Engineer, GREE 🇯🇵 2012, Now ~  
+- Senior Security Engineer, GREE 🇯🇵 2012, Now ~  
 - Security Manager, LINE 🇯🇵 2008, 4 and half years
 - Co-founder, PanicSecurity 🇰🇷 (PS ScanW3B) 2004
 - Security Engineer, Webzen 🇰🇷  2003, 2years
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - Co-founder, KHDP, Koean Hacking Document Project (1999) with Wongyeo Jeong, Jiman Ham
 
 ### Favorites 
+- solidity, truffle, geth, react, nodejs, remix, ... 
 - x86/64 asm, C/C++, C#, Python, PHP, Java, Ruby, Delphi, QML, Yacc&Lex... 
 - IDA Pro, IDA plugins, gdb, frida, ollydbg, WindDbg, ZAP, Burp, Burp extensions ...
 - golang, Laravel, Fuelphp, Codeigniter, CakePHP, Django, Node.js, Symfony, Silex, Typescript, ... 
