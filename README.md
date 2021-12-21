@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 - CVE-2000-0998 "Format string vulnerability in top program allows local attackers to gain root privileges"
 - CVE-1999-0691 "Digital Unix CDE dtaction -user overflow vulnerability proof of concept code"
 
+### Bug Bounties 
+- Lists are here https://github.com/truefinder/none-cve-vulnerabilities
+
+
 ### Game Security
 - SINoALICE -シノアリス-, 戦姫絶唱シンフォギアXD UNLIMITED, アサルトリリィ Last Bullet,  ...
 - 消滅都市, アナザーエデン 時空を超える猫, ダンまち〜メモリア・フレーゼ〜, ソウルアームズ, 追憶の青, ... 
