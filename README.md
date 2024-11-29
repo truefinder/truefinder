@@ -16,26 +16,28 @@ Here are some ideas to get you started:
 -->
 
 ### Trails
-- Senior Security Engineer, GREE 🇯🇵 2012, Now ~  
-- Security Manager, LINE 🇯🇵 2008, 4 and half years
+- CTO & CISO, Akuodigital 🇯🇵 2023 ~ 
+- Senior Security Engineer, GREE 🇯🇵 2012, 10years and 7months   
+- Application Security Lead, LINE 🇯🇵 2008, 3 years and 10months
 - Co-founder, PanicSecurity 🇰🇷 (PS ScanW3B) 2004
-- Security Engineer, Webzen 🇰🇷  2003, 2years
-- Security Consultant, HackersLab 🇰🇷 (The first security consulting firm in Korea) 2001, 2years
+- Security Engineer (Windows Developer), Webzen 🇰🇷  2003, 1 year and 5months
+- Security Consultant, Securesoft 🇰🇷 1 year
+- Security Consultant, HackersLab 🇰🇷 (The first security consulting firm in Korea) 2002, 2years and 2months
 - Founder, IGRUS, Inha Group of Research for UNIX Secruity (2000)
 - Co-founder, KHDP, Koean Hacking Document Project (1999) with Wongyeo Jeong, Jiman Ham
 
 ### Favorites 
-- solidity, truffle, geth, react, nodejs, remix, ... 
-- x86/64 asm, C/C++, C#, Python, PHP, Java, Ruby, Delphi, QML, Yacc&Lex... 
-- IDA Pro, IDA plugins, gdb, frida, ollydbg, WindDbg, ZAP, Burp, Burp extensions ...
-- golang, Laravel, Fuelphp, Codeigniter, CakePHP, Django, Node.js, Symfony, Silex, Typescript, ... 
-- Android, iOS, Windows, Linux, Mac OSX, Raspberry Pi, Arduino ... 
-- (old friends) Solaris, Digital Unix, AIX, Minix, WinCE, i-Mode, KVM, ...
+- Blockchain stuffs : solidity, truffle, geth, react, nodejs, remix, ... 
+- Languages : x86/64 asm, C/C++, C#, Python, PHP, Java, Ruby, Delphi, QML, Yacc&Lex... 
+- Analysis things : IDA Pro, IDA plugins, gdb, frida, ollydbg, WindDbg, ZAP, Burp, Burp extensions ...
+- Develope Platforms : golang, Laravel, Fuelphp, Codeigniter, CakePHP, Django, Node.js, Symfony, Silex, Typescript, ... 
+- Operating systems : Android, iOS, Windows, Linux, Mac OSX, Raspberry Pi, Arduino ... 
+- Old Operation systems : Solaris, Digital Unix, AIX, Minix, WinCE, i-Mode, KVM, ...
 
 ### CTFs 
 - 2002 Host, KOF(King of Fighters) 2001 ctf, HackersLab, Taiwan
 - 2001 Host, 2st KOF(King of Fighters) ctf, HackersLab, Korea 
-- 2001 Winner, World Information Security Olymfair, KAIST, Korea  
+- 2001 2nd Winner, World Information Security Olymfair, KAIST, Korea  
 
 ### Bug Huntings(CVE)
 - CVE-2001-1093 "Buffer overflow in msgchk in Digital UNIX 4.0G and earlier"
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
 
 ### Bug Bounties 
 - Lists are here https://github.com/truefinder/none-cve-vulnerabilities
-
+- bugbounty.jp 11 reports (Not running now) 
 
 ### Game Security
 - SINoALICE -シノアリス-, 戦姫絶唱シンフォギアXD UNLIMITED, アサルトリリィ Last Bullet,  ...
