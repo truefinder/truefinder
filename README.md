@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Trails
-- CISO, Akuodigital 🇯🇵 2023 ~ 
+- Security Sepecilist, hacomono 🇯🇵 2025 ~ 
+- CISO, Akuodigital 🇯🇵 2023 , 2years 
 - Senior Security Engineer, GREE 🇯🇵 2012, 10years and 7months   
 - Application Security Lead, LINE 🇯🇵 2008, 3 years and 10months
 - Co-founder, PanicSecurity 🇰🇷 (PS ScanW3B) 2004
