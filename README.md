@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ### Trails
-- Security Sepecilist, hacomono 🇯🇵 2025 ~ 
+- Security Specialist, hacomono 🇯🇵 2025 ~ 
 - Chief Information Security Officer, AKUODIGITAL Japan 🇯🇵 2023 , 2years 
 - Senior Security Engineer, GREE 🇯🇵 2012, 10years and 7months   
 - Application Security Lead, LINE 🇯🇵 2008, 3 years and 10months
-- Co-founder, PanicSecurity 🇰🇷 (PS ScanW3B) 2004
+- Co-founder, PanicSecurity 🇰🇷 (PS ScanW3B, web application vulnerability scanner ) 2004
 - Security Engineer (Windows Developer), Webzen 🇰🇷  2003, 1 year and 5months
 - Security Consultant, Securesoft 🇰🇷 1 year
 - Security Consultant, HackersLab 🇰🇷 (The first security consulting firm in Korea) 2002, 2years and 2months
-- Founder, IGRUS, Inha Group of Research for UNIX Secruity (2000)
-- Co-founder, KHDP, Koean Hacking Document Project (1999) with Wongyeo Jeong, Jiman Ham
+- Association Founder, IGRUS, Inha Group of Research for UNIX Secruity (2000)
+- Association Co-founder, KHDP, Koean Hacking Document Project (1999) with Wongyeo Jeong, Jiman Ham
 
 ### Favorites 
 - Blockchain stuffs : solidity, truffle, geth, react, nodejs, remix, ... 
