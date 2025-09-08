@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - apk-decompile "Androidアプリ 解析ツール" 
 - dochizame "Android 動的アプリ改ざんツール"
 - webterm "WebサーバーリアルタイムShell, ぺネトレーションツール"
-- garuda "wifi 攻撃者検知ツール" 
+- garuda "World first OSS wifi IDS シグナル攻撃検知ツール" 
 
 ### Speaker 
 - 2021 Gree TechConference(🇯🇵) https://techcon.gree.jp/2021/
