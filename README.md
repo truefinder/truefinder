@@ -59,8 +59,10 @@ Here are some ideas to get you started:
 - TERA, Specil Force, Dragon Nest, ELSEWORD, パチスロDX, パチンコDX, ななぱち, チョコットランド, アラド戦記, ...
 
 ### Security developement
-- google_drive_anywonwithLink_search "社内の公開されたファイルを検知"
 - cognito_api_hack "cognitoを使用した認証基盤を検証するためのツール"  
+- mxHero_google_drive_anyonewithlink_alert "mxHeroを採択してる会社の添付ファイルの公開状態を検知" 
+- notion_public_page_search "社内notionで公開されたページを検知"
+- google_drive_anywonwithLink_search "社内の公開されたファイルを検知"
 - tonbi "ソースコード静的解析、脆弱性検知ツール" 
 - apk-decompile "Androidアプリ 解析ツール" 
 - dochizame "Android 動的アプリ改ざんツール"
