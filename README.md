@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - TERA, Specil Force, Dragon Nest, ELSEWORD, パチスロDX, パチンコDX, ななぱち, チョコットランド, アラド戦記, ...
 
 ### Security developement
+- pii_in_google_drive "SpreadsheetからGoogle driveのリンクを読み込み、それをOpenAIで個人情報有無を検知" 
 - cognito_api_hack "cognitoを使用した認証基盤を検証するためのツール"  
 - mxHero_google_drive_anyonewithlink_alert "mxHeroを採択してる会社の添付ファイルの公開状態を検知" 
 - notion_public_page_search "社内notionで公開されたページを検知"
